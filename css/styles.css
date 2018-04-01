@@ -15,7 +15,10 @@ body {
 
 /*CONTENEDOR DE HEADER*/
 .header {
-	background: #A80909;
+	background: url(../images/background_header.jpg);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
 	display: flex;
 	flex-flow: column nowrap;
 }
