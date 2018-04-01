@@ -3,6 +3,9 @@
 	padding: 10px;
 	box-sizing: border-box;
 }
+body {
+	font-family: 'Montserrat', sans-serif;
+}
 
 /*CONTENEDOR PRINCIPAL*/
 .container {
